@@ -1,0 +1,4 @@
+Faker==2.0.3
+pandas==0.25.3
+dateparser==0.7.2
+pytest==5.2.2
