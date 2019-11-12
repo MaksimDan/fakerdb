@@ -5,7 +5,7 @@ req_pkgs = [line.rstrip() for line in open(os.path.join(os.path.dirname(__file__
 
 setup(
     name='fakerdb',
-    version='1.0.0',
+    version='1.0.1',
     packages=find_packages(),
     author='Daniel Maksimovich',
     author_email='maksimovich.daniel@gmail.com',

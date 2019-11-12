@@ -1,7 +1,7 @@
 from fakerdb.schema import Field
 from fakerdb.schema import Schema
 from fakerdb.schema import ForeignKeyType
-from test.resources.provider1 import Provider
+from fakerdb.provider import Provider
 
 _TABLE_USER = 'users_user'
 _TABLE_CONTACT = 'contacts_contact'
